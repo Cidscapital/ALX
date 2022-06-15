@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 echo "ALX school is so cool!"
+<<<<<<< HEAD:bash/alx
 
 echo "ALX School"
+=======
+=======
+echo "ALX School"
+>>>>>>> update_script
+>>>>>>> 0c68d9b6cd85b03cf61f69321dc11b08c3e2161f:0x01-git/bash/alx
