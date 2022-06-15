@@ -1,2 +1,1 @@
-# ALX
-ALX repository
+My first readme
